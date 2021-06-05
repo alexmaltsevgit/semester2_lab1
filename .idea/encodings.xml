@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Algorithm/algorithm.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CMakeLists.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Options/Main/mainItems.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Options/Settings/settingsCBs.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Options/Settings/settingsOptions.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Util/file.h" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
